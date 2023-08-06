@@ -1,0 +1,62 @@
+body{
+    text-align: center;
+    background-image: url(lc.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h1
+{
+    color: white;
+
+}
+header{
+    background-color: black;
+    height: 110px;
+    padding: 15px;
+
+}
+ul li{
+    display: inline;
+    color: brown;
+    padding: 40px;
+
+}
+ul li a{
+    color: brown;
+    text-decoration: none;
+}
+
+#home img{
+    height: 200px;
+    width:200px;
+    border-radius: 50%;
+}
+
+#portfolio
+{
+    text-align: center;
+    background-color: cadetblue;
+    padding: 10px;
+    border-radius:60px ;
+   
+}
+footer{
+    background-color: darkgray;
+    height: 100px;
+
+}
+footer p{
+    background-color: gray;
+    height: 40px;
+}
+#bio
+{
+    background-color: bisque;
+    border-radius:60px ;
+}
+
+div{
+   padding-left: 100px;
+   padding-right: 100px;
+}
